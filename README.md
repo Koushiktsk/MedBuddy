@@ -70,15 +70,6 @@ medbuddy.py          # Main chatbot script
 
 ---
 
-## 📝 Example
-
-```
-Human: I feel anxious lately, what should I do?  
-Chatbot: Anxiety is common, and it helps to practice deep breathing, journaling, or speaking with a trusted friend...  
-```
-
----
-
 ## 🔮 Future Improvements
 
 * Add **speech-to-text** support for voice conversations.
@@ -87,4 +78,4 @@ Chatbot: Anxiety is common, and it helps to practice deep breathing, journaling,
 
 ---
 
-Would you like me to also include a **diagram/flowchart of how MedBuddy works** (LLM + ChromaDB + Gradio) in the README for better clarity?
+
