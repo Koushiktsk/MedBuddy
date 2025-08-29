@@ -6,7 +6,7 @@
 
 MedBuddy is an AI-powered **mental health support chatbot** built using **LangChain, Groq LLMs, and ChromaDB**. It provides compassionate, context-aware responses to user queries and can also retrieve insights from PDF documents (like medical journals or mental health resources).
 
-⚠️ **Disclaimer**: This chatbot is for **general support only**. For serious or urgent concerns, please consult a licensed professional.
+#video : https://www.awesomescreenshot.com/video/43672880?key=c8a92e1389e416861f60d54bb3c8d8f6
 
 ---
 
