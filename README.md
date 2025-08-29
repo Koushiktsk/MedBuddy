@@ -1,7 +1,5 @@
 # MedBuddy
 
-Got it ✅ I analyzed your `medbuddy.py`. Based on the code, here’s a **README.md** draft you can use for your project:
-
 ---
 
 # 🧠 MedBuddy – Mental Health Chatbot
